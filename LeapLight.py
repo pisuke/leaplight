@@ -195,14 +195,3 @@ if __name__ == "__main__":
 	main()
 	
 	
-"""	
-  while True:
-	intensity = 128*math.sin(time.time())+128
-	light_0.set(0, int(intensity))
-	light_1.set(0, int(intensity))
-	#for light in light_0, light_1:
-	#  for color in range(3):
-	#	light.set(color, random.randintil.com(0, 255))
-	manager.send()
-	time.sleep(.01)
-"""
